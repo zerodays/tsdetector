@@ -11,3 +11,6 @@ Dependencies:
 - numpy
 - tensorflow
 - scypi
+
+
+[This](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6) helps a lot.
